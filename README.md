@@ -1,5 +1,5 @@
 # Midterm GitHub Project: Dr Stone vs Demon Slayer vs Kekkai Sensen 🌳 👺
-This is a partner-based project in which we will debate which anime is better. Dr Stone or Demon Slayer.
+This is a partner-based project in which we will debate which anime is better. Dr Stone or Demon Slayer or Kekkai Sensen.
 ## Installation
 No installation required. Simply download the zip file and extract
 ## Usage
